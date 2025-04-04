@@ -44,8 +44,8 @@ Browser-Use Web UI provides an intuitive interface for controlling and monitorin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/browser-use-web-ui.git
-   cd browser-use-web-ui
+   git clone https://github.com/Ridamdli/UIwebFORbrwseruse.git
+   cd UIwebFORbrwseruse
    ```
 
 2. Create and activate a Python virtual environment:
